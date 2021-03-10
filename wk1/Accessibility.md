@@ -2,28 +2,70 @@
 
 ---
 
+Designing for accessibility means that more people, regardless of their physical and cognitive abilities, can access the information that your product provides.
+
+
+A properly designed webpage should be easily accessible and usable by all facets of users.
+
+---
+
+Here is a short list of characteristics that you can design for:
+
+---
+
+- People who are blind/with low vision
+- People with colourblindness
+- Those that have physical disabilities
+- Those that only use compact web-enabled devices
+- Those with cognitive disorders such as ADHD
+- Those speaking English as a foreign or second language
+
+---
+
 ## Semantic HTML
 
 ---
 
-When writing markup, it has to be as accessible to as many people as possible. These are the main groups to reach that are commonly left behind:
+We all know that the HyperText Markup Language (HTML) is the language of the web. It is fundamentally made up of tags that annotate and strcuture a web page. This helps both humans and machines read your content through tags.
+
+
+The right HTML tags should be used for the right purposes. This is known as Semantic HTML or HTML Semantics.
 
 ---
 
-1) People who are blind/with low vision
-2) People with colourblindness
-3) Those that have physical disabilities
-4) Those that only use compact web-enabled devices
-5) Those with cognitive disorders such as ADHD
-6) Those speaking English as a foreign or second language
+Semantic html is an additional layer of communication. When you use semantic html you communicate more than when you use non-semantic html. Isn’t that pretty much the point of what we do? Communicate.
 
 ---
 
-It is important that we are always designing for accessibility so more people can access the information our product provides. Semantic HTML can help us reach many more people because of its nature. 
+[MDN](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) states that:
+
+>*'A great deal of web content can be made accessible just by making sure the correct HyperText Markup Language elements are used for the correct purpose at all times'*
+
+--- 
+
+**_SEMANTIC HTML is important because it's:_**
 
 ---
 
-Semantic HTML benefits many of the groups mentioned as it is always chosen based on importance of structure of content. Semantic HTML is about the importance of hierarchy in writing text. This helps both humans and machines read your content. 
+- **Clean** — It’s easier to read and edit, which saves time and money during maintenance. 
+
+Imagine adding the non-semantic class=”red” to a span of text. Later you decide that text should be green. That’s going to be confusing to someone editing the html at a later date.
+
+Better would be to use something like class=”price” (assuming the content is a price on an ecommerce site). You could then change the color from red to green to blue to orange without confusing what that content is.
+
+--- 
+
+- **More accessible** — It can be better understood by a greater variety of devices. Those devices can then add their own style and presentation based on what’s best for the device.
+
+A screen reader could raise and lower volume to communicate the hierarchy of your h1-h6 tags for example since you’ve clearly indicated a hierarchy.
+
+The more meaningful the structure of your content, the better different tools can make use of your content.
+
+---
+
+- **Search engine friendly** — This is still debatable as search engines rank content and not code, but search engines are making greater use of things like microformats to understand content.
+
+  + [Microformats](http://vanseodesign.com/web-design/microformats-what-how-why/)
 
 ---
 
