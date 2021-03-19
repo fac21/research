@@ -11,7 +11,7 @@ slideOptions:
 
 ## Asynchronous JavaScript
 
-<iframe src="https://giphy.com/embed/TQmOxn9y3BoFG" width="480" height="180" frameBorder="0" ></iframe>
+![]("https://giphy.com/embed/TQmOxn9y3BoFG")
 
 - Synchronous' and Asynchronous code, Blocking
 
@@ -24,16 +24,15 @@ slideOptions:
 
 ## Synchronous Programming
 
-<iframe src="https://giphy.com/embed/kI4NJZ2T7HO5Y6aecx" height="180" frameBorder="0"></iframe>
+
+![]("https://giphy.com/embed/kI4NJZ2T7HO5Y6aecx")
 
 In a synchronous programming model
 things happen one at a time, in the order they appear
 
 ---
 
-
-<iframe src="https://giphy.com/embed/hSulTsYX8yatJMVtiQ"
-height="180" frameBorder="0"></iframe>
+![]("https://giphy.com/embed/hSulTsYX8yatJMVtiQ")
 
 - JavaScript is a single threaded language
 
@@ -61,8 +60,7 @@ btn.addEventListener('click', () => {
 
 ## Blocking
 
-
-<iframe src="https://giphy.com/embed/PfR64JndE2DhS" height="180" frameBorder="0"></iframe>
+![]("https://giphy.com/embed/PfR64JndE2DhS")
 
 ---
 
@@ -77,7 +75,7 @@ btn.addEventListener('click', () => {
 
 An example ...
 
-<iframe src="https://giphy.com/embed/lfJDAwGrqPuKY" height="180" frameBorder="0"></iframe>
+![]("https://giphy.com/embed/lfJDAwGrqPuKY")
 
 
 ``` !=
@@ -94,15 +92,18 @@ moreWork(); // will run after console.log
 
 ## Asynchronous Programming
 
-<iframe src="https://giphy.com/embed/wN4GIuq6mjMGzMuhxf" height="180" frameBorder="0"></iframe>
+![]("https://giphy.com/embed/wN4GIuq6mjMGzMuhxf")
 
-<iframe src="https://giphy.com/embed/JSnKGLvrFvYU8" height="180" frameBorder="0"></iframe>
+
+![]("https://giphy.com/embed/JSnKGLvrFvYU8")
+
 
 **An asynchronous programming model allows multiple things to happen at the same time.**
 
 ---
 
-<iframe src="https://giphy.com/embed/l1Etf7wwmO3eigKzK" height="180" frameBorder="0" ></iframe>
+![]("https://giphy.com/embed/l1Etf7wwmO3eigKzK")
+
 
 - JS is not an asynch language, BUT it can be manipulated to work in an asynchronous way
 
@@ -113,8 +114,7 @@ moreWork(); // will run after console.log
 - Many Web API features now use asynchronous code to run. <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
-
-<iframe src="https://giphy.com/embed/H46Dtwtwo1FDO" height="180" frameBorder="0" ></iframe>
+![]("https://giphy.com/embed/H46Dtwtwo1FDO")
 
 There are two main types of asynchronous code used in JavaScript:
 - Old-style Callbacks<!-- .element: class="fragment" data-fragment-index="0" -->
