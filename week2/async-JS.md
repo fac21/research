@@ -11,7 +11,7 @@ slideOptions:
 
 ## Asynchronous JavaScript
 
-![](https://giphy.com/embed/TQmOxn9y3BoFG)
+![](https://media.giphy.com/media/TQmOxn9y3BoFG/giphy.gif)
 
 - Synchronous' and Asynchronous code, Blocking
 
@@ -25,14 +25,14 @@ slideOptions:
 ## Synchronous Programming
 
 
-![](https://giphy.com/embed/kI4NJZ2T7HO5Y6aecx)
+![](https://media.giphy.com/media/kI4NJZ2T7HO5Y6aecx/giphy.gif)
 
 In a synchronous programming model
 things happen one at a time, in the order they appear
 
 ---
 
-![](https://giphy.com/embed/hSulTsYX8yatJMVtiQ)
+![](https://media.giphy.com/media/hSulTsYX8yatJMVtiQ/giphy.gif)
 
 - JavaScript is a single threaded language
 
