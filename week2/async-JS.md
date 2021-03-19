@@ -11,7 +11,7 @@ slideOptions:
 
 ## Asynchronous JavaScript
 
-![]("https://giphy.com/embed/TQmOxn9y3BoFG")
+![](https://giphy.com/embed/TQmOxn9y3BoFG)
 
 - Synchronous' and Asynchronous code, Blocking
 
@@ -25,14 +25,14 @@ slideOptions:
 ## Synchronous Programming
 
 
-![]("https://giphy.com/embed/kI4NJZ2T7HO5Y6aecx")
+![](https://giphy.com/embed/kI4NJZ2T7HO5Y6aecx)
 
 In a synchronous programming model
 things happen one at a time, in the order they appear
 
 ---
 
-![]("https://giphy.com/embed/hSulTsYX8yatJMVtiQ")
+![](https://giphy.com/embed/hSulTsYX8yatJMVtiQ)
 
 - JavaScript is a single threaded language
 
@@ -60,7 +60,7 @@ btn.addEventListener('click', () => {
 
 ## Blocking
 
-![]("https://giphy.com/embed/PfR64JndE2DhS")
+![](https://giphy.com/embed/PfR64JndE2DhS)
 
 ---
 
@@ -75,7 +75,7 @@ btn.addEventListener('click', () => {
 
 An example ...
 
-![]("https://giphy.com/embed/lfJDAwGrqPuKY")
+![](https://giphy.com/embed/lfJDAwGrqPuKY)
 
 
 ``` !=
@@ -92,17 +92,17 @@ moreWork(); // will run after console.log
 
 ## Asynchronous Programming
 
-![]("https://giphy.com/embed/wN4GIuq6mjMGzMuhxf")
+![](https://giphy.com/embed/wN4GIuq6mjMGzMuhxf)
 
 
-![]("https://giphy.com/embed/JSnKGLvrFvYU8")
+![](https://giphy.com/embed/JSnKGLvrFvYU8)
 
 
 **An asynchronous programming model allows multiple things to happen at the same time.**
 
 ---
 
-![]("https://giphy.com/embed/l1Etf7wwmO3eigKzK")
+![](https://giphy.com/embed/l1Etf7wwmO3eigKzK)
 
 
 - JS is not an asynch language, BUT it can be manipulated to work in an asynchronous way
@@ -114,7 +114,7 @@ moreWork(); // will run after console.log
 - Many Web API features now use asynchronous code to run. <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ---
-![]("https://giphy.com/embed/H46Dtwtwo1FDO")
+![](https://giphy.com/embed/H46Dtwtwo1FDO)
 
 There are two main types of asynchronous code used in JavaScript:
 - Old-style Callbacks<!-- .element: class="fragment" data-fragment-index="0" -->
